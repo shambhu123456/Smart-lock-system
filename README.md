@@ -1,4 +1,4 @@
-# Joystick-Controlled Lock System
+# Smart-Lock-System
 
 ## Overview
 
