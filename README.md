@@ -52,6 +52,7 @@ This Python script implements a joystick-controlled lock system using a Raspberr
 4. The script can be stopped using `CTRL+C`.
 
 ### Demo & Images
+![Image1](shambu/videos-images/image1.jpg)
 
 
 
