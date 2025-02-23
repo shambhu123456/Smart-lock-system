@@ -54,7 +54,7 @@ This Python script implements a joystick-controlled lock system using a Raspberr
 ### Demo & Images
 ![Image1](shambu/videos-images/image1.jpg)
 ![Image1](shambu/videos-images/image2.jpg)
-
+![Image1](shambu/videos-images/image3.jpg)
 
 [Watch the Joystick Lock System in Action](videos/demo.mp4)
 
